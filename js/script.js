@@ -1,4 +1,4 @@
-//efeito do botão voltar ao Topo
+//Efeito do botão voltar ao Topo
     
     function topo(){
         window.scrollTo(
